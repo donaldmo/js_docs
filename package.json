@@ -1,0 +1,24 @@
+{
+  "name": "js_docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "doc": "jsdoc -c jsdoc.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donaldmo/js_docs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donaldmo/js_docs/issues"
+  },
+  "homepage": "https://github.com/donaldmo/js_docs#readme",
+  "dependencies": {
+    "jsdocs": "^1.0.0"
+  }
+}
